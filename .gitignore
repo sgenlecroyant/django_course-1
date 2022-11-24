@@ -135,3 +135,6 @@ dmypy.json
 
 # app/__pycache__
 app/__pycache__
+
+# django_course/__pycache__
+django_course/__pycache__
