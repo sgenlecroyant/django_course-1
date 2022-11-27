@@ -1,1 +1,3 @@
 venv
+django_course/__pycache__
+.idea
